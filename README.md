@@ -29,7 +29,7 @@ RegisterNumber: 212224040038
 ```
 ```
 import pandas as pd
-data = pd.read_csv("Employee (1).csv")
+data = pd.read_csv("Employee.csv")
 data.head()
 
 data.info()
